@@ -7,7 +7,7 @@
 I'm
 Full Stack web developer
 I am a full stack development intern in Edureka internship program and I am also intrested in building a new efficient and attractive websites.I have the knowledge in HTML.CSS,JS,MongoDB,Reactjs and c programming.Also i have learned about cloud computing.
-ment
+
 
 
 ![Visitor Count](https://profile-counter.glitch.me/satheeshmuthusamy/count.svg)
